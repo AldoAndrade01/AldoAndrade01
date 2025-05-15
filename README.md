@@ -84,7 +84,7 @@
 <h2 align="left">Contact</h2>
 
 <div align="left">
-  <a href="mailto:aldo.andrade123@gmail.com" target="_blank">
+  <a href="mailto:aldo.andrade123@gmail.com?subject=GitHub%20Contact&body=Hi%20Aldo,%20I%20found%20your%20profile%20on%20GitHub...">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="60" alt="gmail logo" style="margin-right: 20px;" />
   </a>
   <a href="https://www.linkedin.com/in/aldo-andrade01" target="_blank">
