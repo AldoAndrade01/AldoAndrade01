@@ -84,13 +84,15 @@
 <h2 align="left">Contact</h2>
 
 <div align="left">
-  <a href="aldo.andrade123@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="60" alt="gmail logo"  />
+  <a href="mailto:aldo.andrade123@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="60" alt="gmail logo" style="margin-right: 20px;" />
   </a>
-  <a href="www.linkedin.com/in/aldo-andrade01" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="60" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/aldo-andrade01" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="60" alt="linkedin logo" style="margin-right: 20px;" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="60" height="60" alt="tryhackme logo"  />
+<a href="https://tryhackme.com/p/aldo.andrade123" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="60" height="60" alt="tryhackme logo" />
+</a>	
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
